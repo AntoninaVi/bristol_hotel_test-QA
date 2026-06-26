@@ -7,7 +7,7 @@ Manual QA testing of [bristolkrasnodar.ru](https://bristolkrasnodar.ru/):
 - [Test cases](https://drive.google.com/file/d/17AIZvnu2T3a2XNy6DgfiSHp_d4x6Gz3m/view?usp=drive_link) created via [Test IT](https://testit.software/), covering key user flows.
 - [Bug report](https://drive.google.com/file/d/1rxB9zuBtqxNcj05Xe4ZRHPGf29twm12v/view?usp=drive_link) created via [Jira](https://www.atlassian.com/software), with steps to reproduce, screenshots, severity and priority.
 
-## Types of Testing
+# Types of Testing
 
 - Manual Testing
 - Functional Testing
