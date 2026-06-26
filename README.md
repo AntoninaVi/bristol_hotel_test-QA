@@ -26,6 +26,10 @@ Manual QA testing of [bristolkrasnodar.ru](https://bristolkrasnodar.ru/):
 - Samsung A32 Android 13
 
 
-**Browsers:** Google Chrome (148.0.7778.216), Safari (iOS/macOS) 26.5, Firefox (152.0.3), Opera (132.0.5905.102)
+**Browsers:** 
+- Google Chrome (148.0.7778.216)
+- Safari (iOS/macOS) 26.5
+- Firefox (152.0.3)
+- Opera (132.0.5905.102)
 
 
