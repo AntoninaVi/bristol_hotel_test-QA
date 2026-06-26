@@ -13,7 +13,6 @@ Manual QA testing of [bristolkrasnodar.ru](https://bristolkrasnodar.ru/):
 - Functional Testing
 - Black-box Testing
 - GUI Testing
-- Usability Testing
 - Exploratory Testing
 - Compatibility Testing
 - Responsive Testing
